@@ -2,3 +2,4 @@
 This repository contains important lessons for data scientists . 
 The source of this code is from various coursera.org courses. 
 I knit picked the ones used by data scientists extensively.
+I will be making ongoing updates to this repository.
